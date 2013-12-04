@@ -1,4 +1,15 @@
-TestLicense
-===========
+XyCraft Read-Me
+===============
+Version: @VERSION@
 
-Just a simple test of what is created with a new repo
+
+Requirements
+------------
+* Install **Forge (@VERSION.FORGE@)**
+* Drag and drop the **XyCraft.jar** into the */mods/* in the root minecraft folder
+
+Recommended
+-----------
+* **CodeChickenCore (@VERSION.CCC@)**
+
+
